@@ -1,0 +1,14 @@
+{
+  "name": "securephone-dashboard",
+  "version": "1.0.0",
+  "description": "Live Phone Security & Tracking Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static React'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
